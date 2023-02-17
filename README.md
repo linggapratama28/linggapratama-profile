@@ -8,12 +8,16 @@ I graduated from the Broadcasting major, but since January 2021, I have been pur
 6. Part of the Data Engineer track (not completed). 
 
 The skills that I have acquired while working and studying as a Junior Data Engineer and Data Analyst are:
-1. Programming Languages (Python 3, PostgreSQL, MySQL)
-2. Data Processing (Pandas, Numpy, Microsoft Excel, Spreadsheets)
-3. Data Visualization (Power BI, Google Data Studio, Tableau, Matplotlib, Seaborn, Plotly)
-4. Web Scraping (FB Ads, REST API get/request, Google Cloud API)
-5. Data Pipeline (Apache Airflow)
-6. Machine Learning (Scikit Learn: Linear Regression, L1/L2/Elastic net regression)
+
+|No|Skill                                                                                  |
+|--|---------------------------------------------------------------------------------------|
+|1 |Programming Languages (Python 3, PostgreSQL, MySQL)                                    |
+|2 |Data Processing (Pandas, Numpy, Microsoft Excel, Spreadsheets)                         |
+|3 |Data Visualization (Power BI, Google Data Studio, Tableau, Matplotlib, Seaborn, Plotly)|
+|4 |Web Scraping (FB Ads, REST API get/request, Google Cloud API)                          |
+|5 |Data Pipeline (Apache Airflow)                                                         |
+|6 |Machine Learning (Scikit Learn: Linear Regression, L1/L2/Elastic net regression)       |
+
 With my foundational knowledge in data, I am eager to take on new challenges and grow in data analytics. Please feel free to contact me at:
 
  <p align=center>
